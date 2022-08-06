@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @annagarmiza
 - 👀 I’m interested in coding, design and art. Value aesthetics and usability
 - 🌱 I’m currently learning React & ThreeJS
-- 💞️ I’m looking to collaborate on Front-End projects
+- 💞️ I’m looking to collaborate on Front-End & Full-Stack projects
 - 📫 How to reach me : annagarmiza@gmail.com 
 
 <!---
